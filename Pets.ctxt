@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pets
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Pets\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=nome\ nota\ dono\ idade
+comment1.target=Pets(java.lang.String,\ double,\ Pessoa,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getNota()
+comment3.params=nota
+comment3.target=void\ setNota(double)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=int\ getIdade()
+comment7.params=idade
+comment7.target=void\ setIdade(int)
+comment8.params=
+comment8.target=Pessoa\ getDono()
+comment9.params=dono
+comment9.target=void\ setDono(Pessoa)
+numComments=11
